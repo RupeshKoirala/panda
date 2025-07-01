@@ -579,7 +579,7 @@ export default function Home() {
               </p>
               <p className="text-sm text-white font-medium">© 2025 $PANDA.</p>
               <p className="text-sm text-white font-medium">
-                Created by theunbrokenartist@gmail.com </p>
+                Created by projectelevatebiz@gmail.com </p>
             </div>
           </div>
         </footer>
